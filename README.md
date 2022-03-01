@@ -5,16 +5,17 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m a Mechatronics and Automotive Enginner
-- 🌱 I’m currently learning Network, Linux, and Python
-- 👯 I’m looking to collaborate on firmwares
+- 🔭 Mechatronics and Automotive Enginner
+- 🌱 Currently learning Network, Linux, and Python
+- 👯 Looking to collaborate on firmwares 
 - 💬 Ask me about Mechanical Keyboards
 - 📫 You can reach me at dlucenad.daniel@gmail.com
 
  <div>
   <a href="https://github.com/dlucenad">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dlucenad&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlucenad&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlucenad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"/>
+   
 </div>
 
 <!--
@@ -22,4 +23,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 - 😄 Pronouns: he/him
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlucenad&layout=compact&langs_count=7&theme=dark"/>
+
 -->
