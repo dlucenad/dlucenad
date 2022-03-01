@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Mechatronics and Automotive Enginner, aspiring SW dev
-- 🌱 Currently learning Network, Linux, and Python
+- 🔭 Mechatronics and Automotive Engineer
+- 🌱 Aspiring SW dev currently learning Network, Linux, and Python
 - 👯 Looking to collaborate on firmwares and embedded SW
 - 💬 Ask me about Mechanical Keyboards
 - 📫 You can reach me at dlucenad.daniel@gmail.com
