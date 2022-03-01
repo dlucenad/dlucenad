@@ -5,17 +5,16 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Mechatronics and Automotive Enginner
+- 🔭 Mechatronics and Automotive Enginner, aspiring SW dev
 - 🌱 Currently learning Network, Linux, and Python
-- 👯 Looking to collaborate on firmwares 
+- 👯 Looking to collaborate on firmwares and embedded SW
 - 💬 Ask me about Mechanical Keyboards
 - 📫 You can reach me at dlucenad.daniel@gmail.com
 
  <div>
   <a href="https://github.com/dlucenad">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dlucenad&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlucenad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"/>
-   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlucenad&langs_count=7&theme=dark"/>
 </div>
 
 <!--
